@@ -1,0 +1,2 @@
+Run command
+./smp_cache 8192 8 64 4 0 traces/canneal.04t.debug 

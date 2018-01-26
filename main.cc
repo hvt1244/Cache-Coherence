@@ -72,10 +72,7 @@ int main(int argc, char *argv[])
  	fname = argv[6];
 
 	
-	/* Print name and unity ID*/
-	printf("===== 506 Personal information =====\n");
-	printf("Ashitha Velayudhan\navelayu\n");	
-	printf("Section ECE/CSC001\n");
+
 	//****************************************************//
 	//**printf("===== Simulator configuration =====\n");**//
 	//*******print out simulator configuration here*******//
